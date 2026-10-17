@@ -1,0 +1,2 @@
+# REPLACE this line with the exact line from AdMob > Apps > app-ads.txt (it contains your pub- ID).
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

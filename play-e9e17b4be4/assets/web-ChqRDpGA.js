@@ -1,0 +1,1 @@
+import{s as e}from"./index-C_xHizav.js";var t=class extends e{async show(e){}async hide(e){}};export{t as SplashScreenWeb};
